@@ -1,0 +1,17 @@
+html{
+  cursor: url("image/feet.png"),auto;
+}
+
+body{
+  background-color: black;
+}
+
+.endtton{
+  height: 100px;
+  width: auto;
+  cursor: url("image/feet.png"),auto;
+}
+
+form{
+  cursor:auto;
+}

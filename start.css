@@ -1,0 +1,82 @@
+html{
+  background-color: black;
+}
+
+h5{
+  font-style: oblique;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  color:white;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p{
+  font-style: oblique;
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+}
+
+.sebreak{
+  width: auto;
+  height: 350px;
+}
+
+.break{
+  width: auto;
+  height: 1250px;
+}
+
+.right {
+  text-align: right;
+  font-size: 10px;
+}
+
+.left {
+  text-align: left;
+  font-size: 10px;
+}
+
+.hair{
+  width:auto;
+  height: 150px;
+  background: url(image/furball.png)
+}
+
+.cathair {
+  width: auto;
+  height: 750px;
+  background: url(image/remove.png)
+}
+
+.ok{
+  cursor: url("image/wild.png"),auto;
+}
+
+.smol{
+  font-size: 15px;
+}
+
+.bigboi{
+  height: 1500px;
+  width: 1500px ;
+  background: url(image/lift.png);
+  opacity:0.5
+}
+
+.bigboi:hover{
+  opacity: 1.0;
+  background:url(image/what.png)
+}
+
+.out{
+  background-image: url(image/out.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  width: 1980px;
+  height: 1080px;
+}
